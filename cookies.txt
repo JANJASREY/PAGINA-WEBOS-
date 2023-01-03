@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+paypal.com	TRUE	/	FALSE	1999999999	ts	vreXpYrS%3D1767385835%26vteXpYrS%3D1672693235%26vr%3D5ccbaf521850a1d51710aea2fcdd96dc%26vt%3D742dc8331850a78853049e4dfc05a804%26vtyp%3Dreturn
+paypal.com	TRUE	/	FALSE	1999999999	ts_c	vr%3D5ccbaf521850a1d51710aea2fcdd96dc%26vt%3D742dc8331850a78853049e4dfc05a804
+
